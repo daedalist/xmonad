@@ -1,7 +1,7 @@
 #!/bin/sh
 WDIR=$(pwd)
 PKGS="xmonad stow xsecurelock hsetroot rofi feh compton rxvt-unicode-256color cabal-install fonts-inconsolata dunst fonts-font-awesome xfonts-terminus"
-HPKG="yaml xmobar juicypixels"
+HPKG="yaml xmobar JuicyPixels"
 DIRS="xmonad compton x rofi dunst"
 SPOTIFY_URL="https://github.com/dasJ/spotifywm"
 SPOTIFY_DIR="/tmp/spotifywm"
